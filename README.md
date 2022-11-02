@@ -1,2 +1,2 @@
 # angular-code
-Shared Angular Code Project
+Angular Code 
